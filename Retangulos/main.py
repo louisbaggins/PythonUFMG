@@ -58,51 +58,10 @@ class Retangulo:
 
         return x*y
   
-    #Adicione o seu codigo aqui
-
-
-# esq_sup = Ponto2D(1, 4)
-# dir_inf = Ponto2D(5, 0)
-
-# print(esq_sup.x)
-# print(esq_sup.y)
-
-# print(dir_inf.x)
-# print(dir_inf.y)
-# result = Retangulo(esq_sup, dir_inf)
-# print (result.calcularArea())
-
 
 
 
 def main():
-#  r1_esq_sup = Ponto2D(-6.5, 5.0)
-#  r1_dir_inf = Ponto2D(-2.0, 2.5)
-#  ret1 = Retangulo(r1_esq_sup, r1_dir_inf)
-#  area1 = ret1.calcularArea() 
-#  print("%.2f %.2f %.2f" % (ret1.width, ret1.height, area1))
- 
-#  r2_esq_sup = Ponto2D(2.0, 7.0)
-#  r2_dir_inf = Ponto2D(5.0, 4.0)
-#  ret2 = Retangulo(r2_esq_sup, r2_dir_inf)
-#  area2 = ret2.calcularArea()
-#  print("%.2f %.2f %.2f" % (ret2.width, ret2.height, area2))
- 
-
-#  r1_esq_sup = Ponto2D(1.0, 4.0)
-#  r1_dir_inf = Ponto2D(5.0, 0.0)
-#  ret1 = Retangulo(r1_esq_sup, r1_dir_inf)
-#  area1 = ret1.calcularArea() 
-#  print("%.2f %.2f %.2f" % (ret1.width, ret1.height, area1))
- 
-#  r2_esq_sup = Ponto2D(4.0, 3.0)
-#  r2_dir_inf = Ponto2D(8.0, 0.0)
-#  ret2 = Retangulo(r2_esq_sup, r2_dir_inf)
-#  area2 = ret2.calcularArea()
-#  print("%.2f %.2f %.2f" % (ret2.width, ret2.height, area2))
-#  intersecao = ret1.calcularIntersecao(ret2)
-#  print(intersecao)
-
  r1_esq_sup = Ponto2D(-6.5, 5.0)
  r1_dir_inf = Ponto2D(-2.0, 2.5)
  ret1 = Retangulo(r1_esq_sup, r1_dir_inf)
