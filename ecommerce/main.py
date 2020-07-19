@@ -1,4 +1,3 @@
-from abc import ABC, ABCMeta, abstractmethod, abstractproperty
 from models import Livro, Brinquedo, Eletronico, CestaCompras
 
 def main():
